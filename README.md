@@ -109,7 +109,8 @@ def train_model(model, train_loader, num_epochs=3):
 ### New Sample Data Prediction
 
 
-<img width="427" alt="Screenshot 2025-03-23 at 10 49 27 PM" src="https://github.com/user-attachments/assets/d4c965d5-86fe-483b-81a3-cf63714bfeb9" />
+<img width="445" alt="Screenshot 2025-03-23 at 11 15 15 PM" src="https://github.com/user-attachments/assets/124eed56-c9b6-4fac-9910-781036e2db03" />
+
 
 
 
